@@ -1,0 +1,36 @@
+running egg_info
+creating ../../build/control_policy/control_policy.egg-info
+writing ../../build/control_policy/control_policy.egg-info/PKG-INFO
+writing dependency_links to ../../build/control_policy/control_policy.egg-info/dependency_links.txt
+writing entry points to ../../build/control_policy/control_policy.egg-info/entry_points.txt
+writing requirements to ../../build/control_policy/control_policy.egg-info/requires.txt
+writing top-level names to ../../build/control_policy/control_policy.egg-info/top_level.txt
+writing manifest file '../../build/control_policy/control_policy.egg-info/SOURCES.txt'
+reading manifest file '../../build/control_policy/control_policy.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/control_policy/control_policy.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/f1tenth/f1tenth_ws/build/control_policy/build
+creating /home/f1tenth/f1tenth_ws/build/control_policy/build/lib
+creating /home/f1tenth/f1tenth_ws/build/control_policy/build/lib/control_policy
+copying control_policy/follow_the_gap.py -> /home/f1tenth/f1tenth_ws/build/control_policy/build/lib/control_policy
+copying control_policy/__init__.py -> /home/f1tenth/f1tenth_ws/build/control_policy/build/lib/control_policy
+running install
+running install_lib
+creating /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy
+copying /home/f1tenth/f1tenth_ws/build/control_policy/build/lib/control_policy/follow_the_gap.py -> /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy
+copying /home/f1tenth/f1tenth_ws/build/control_policy/build/lib/control_policy/__init__.py -> /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy
+byte-compiling /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy/follow_the_gap.py to follow_the_gap.cpython-310.pyc
+byte-compiling /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/f1tenth/f1tenth_ws/install/control_policy/share/ament_index
+creating /home/f1tenth/f1tenth_ws/install/control_policy/share/ament_index/resource_index
+creating /home/f1tenth/f1tenth_ws/install/control_policy/share/ament_index/resource_index/packages
+copying resource/control_policy -> /home/f1tenth/f1tenth_ws/install/control_policy/share/ament_index/resource_index/packages
+copying package.xml -> /home/f1tenth/f1tenth_ws/install/control_policy/share/control_policy
+running install_egg_info
+Copying ../../build/control_policy/control_policy.egg-info to /home/f1tenth/f1tenth_ws/install/control_policy/lib/python3.10/site-packages/control_policy-0.0.0-py3.10.egg-info
+running install_scripts
+Installing follow_the_gap script to /home/f1tenth/f1tenth_ws/install/control_policy/lib/control_policy
+writing list of installed files to '/home/f1tenth/f1tenth_ws/build/control_policy/install.log'

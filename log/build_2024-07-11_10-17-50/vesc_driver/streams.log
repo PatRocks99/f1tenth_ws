@@ -1,0 +1,58 @@
+[0.046s] Invoking command in '/home/f1tenth/f1tenth_ws/build/vesc_driver': AMENT_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/vesc_driver -- -j6 -l6
+[0.326s] [ 10%] [32mBuilding CXX object CMakeFiles/vesc_driver_node.dir/rclcpp_components/node_main_vesc_driver_node.cpp.o[0m
+[0.453s] [ 20%] [32mBuilding CXX object CMakeFiles/vesc_driver.dir/src/vesc_driver.cpp.o[0m
+[0.499s] [ 30%] [32mBuilding CXX object CMakeFiles/vesc_driver.dir/src/vesc_interface.cpp.o[0m
+[0.508s] [ 40%] [32mBuilding CXX object CMakeFiles/vesc_driver.dir/src/vesc_packet.cpp.o[0m
+[0.554s] [ 50%] [32mBuilding CXX object CMakeFiles/vesc_driver.dir/src/vesc_packet_factory.cpp.o[0m
+[14.846s] [ 60%] [32m[1mLinking CXX executable vesc_driver_node[0m
+[15.494s] [ 60%] Built target vesc_driver_node
+[30.074s] [ 70%] [32m[1mLinking CXX shared library libvesc_driver.so[0m
+[31.542s] [ 70%] Built target vesc_driver
+[31.584s] [ 80%] [32mBuilding CXX object CMakeFiles/vesc_device_namer.dir/src/vesc_device_uuid_lookup.cpp.o[0m
+[31.585s] [ 90%] [32mBuilding CXX object CMakeFiles/vesc_device_namer.dir/src/vesc_device_namer.cpp.o[0m
+[33.275s] [100%] [32m[1mLinking CXX executable vesc_device_namer[0m
+[33.953s] [100%] Built target vesc_device_namer
+[33.974s] Invoked command in '/home/f1tenth/f1tenth_ws/build/vesc_driver' returned '0': AMENT_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/vesc_driver -- -j6 -l6
+[34.039s] Invoking command in '/home/f1tenth/f1tenth_ws/build/vesc_driver': AMENT_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/vesc_driver
+[34.054s] -- Install configuration: ""
+[34.054s] -- Installing: /home/f1tenth/f1tenth_ws/install/vesc_driver/lib/vesc_driver/vesc_driver_node
+[34.056s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/vesc_driver/lib/vesc_driver/vesc_driver_node" to ""
+[34.056s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/datatypes.hpp
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/vesc_device_uuid_lookup.hpp
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/crc.hpp
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/vesc_driver.hpp
+[34.057s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/vesc_interface.hpp
+[34.058s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/vesc_packet.hpp
+[34.058s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/include/vesc_driver/vesc_packet_factory.hpp
+[34.058s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/library_path.sh
+[34.058s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/library_path.dsv
+[34.058s] -- Installing: /home/f1tenth/f1tenth_ws/install/vesc_driver/lib/libvesc_driver.so
+[34.076s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/vesc_driver/lib/libvesc_driver.so" to ""
+[34.076s] -- Installing: /home/f1tenth/f1tenth_ws/install/vesc_driver/lib/vesc_driver/vesc_device_namer
+[34.077s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/vesc_driver/lib/vesc_driver/vesc_device_namer" to ""
+[34.078s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/launch
+[34.078s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/launch/vesc_driver_node.launch.py
+[34.078s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/params
+[34.079s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/params/vesc_config.yaml
+[34.079s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/ament_index/resource_index/package_run_dependencies/vesc_driver
+[34.079s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/ament_index/resource_index/parent_prefix_path/vesc_driver
+[34.079s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/ament_prefix_path.sh
+[34.079s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/ament_prefix_path.dsv
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/path.sh
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/environment/path.dsv
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/local_setup.bash
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/local_setup.sh
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/local_setup.zsh
+[34.080s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/local_setup.dsv
+[34.081s] -- Installing: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/package.dsv
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/ament_index/resource_index/packages/vesc_driver
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/ament_index/resource_index/rclcpp_components/vesc_driver
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/cmake/ament_cmake_export_libraries-extras.cmake
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/cmake/vesc_driverConfig.cmake
+[34.081s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/cmake/vesc_driverConfig-version.cmake
+[34.082s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/vesc_driver/share/vesc_driver/package.xml
+[34.085s] Invoked command in '/home/f1tenth/f1tenth_ws/build/vesc_driver' returned '0': AMENT_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs:/opt/ros/humble LD_LIBRARY_PATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/lib:/opt/ros/humble/opt/rviz_ogre_vendor/lib:/opt/ros/humble/lib/aarch64-linux-gnu:/opt/ros/humble/lib:/usr/local/cuda-12.2/lib64:/usr/local/cuda-12.2/lib64 PYTHONPATH=/home/f1tenth/f1tenth_ws/install/vesc_msgs/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/vesc_driver

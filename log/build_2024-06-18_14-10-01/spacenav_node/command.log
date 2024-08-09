@@ -1,0 +1,1 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/spacenav_node': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/spacenav_node -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/spacenav_node

@@ -1,0 +1,228 @@
+[0.730s] Invoking command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/wiimote_msgs -- -j6 -l6
+[0.776s] -- Found ament_cmake: 1.3.9 (/opt/ros/humble/share/ament_cmake/cmake)
+[1.075s] -- Found ament_cmake_auto: 1.3.9 (/opt/ros/humble/share/ament_cmake_auto/cmake)
+[1.346s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[1.346s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[1.347s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[1.358s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[1.404s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[1.620s] -- Found ament_lint_auto: 0.12.11 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[2.115s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[3.250s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[3.728s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[3.820s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[3.888s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[3.888s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[3.888s] -- Using PYTHON_LIBRARIES: /usr/lib/aarch64-linux-gnu/libpython3.10.so
+[4.012s] -- Added test 'copyright' to check source files copyright and LICENSE
+[4.016s] -- Added test 'lint_cmake' to check CMake code style
+[4.018s] -- Added test 'xmllint' to check XML markup files
+[4.030s] -- Configuring done
+[4.155s] -- Generating done
+[4.183s] -- Build files have been written to: /home/f1tenth/f1tenth_ws/build/wiimote_msgs
+[4.292s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_generator_c[0m
+[4.357s] [ 10%] Built target wiimote_msgs__rosidl_generator_c
+[4.369s] [ 12%] Built target wiimote_msgs__cpp
+[4.397s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_introspection_c[0m
+[4.420s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_c[0m
+[4.427s] [ 12%] Built target ament_cmake_python_copy_wiimote_msgs
+[4.429s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_fastrtps_c[0m
+[4.438s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_introspection_cpp[0m
+[4.465s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_cpp[0m
+[4.474s] [ 23%] Built target wiimote_msgs__rosidl_typesupport_introspection_c
+[4.507s] [ 34%] Built target wiimote_msgs__rosidl_typesupport_fastrtps_c
+[4.520s] [ 44%] Built target wiimote_msgs__rosidl_typesupport_introspection_cpp
+[4.538s] [ 55%] Built target wiimote_msgs__rosidl_typesupport_c
+[4.549s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_fastrtps_cpp[0m
+[4.554s] [ 65%] Built target wiimote_msgs__rosidl_typesupport_cpp
+[4.641s] [ 76%] Built target wiimote_msgs__rosidl_typesupport_fastrtps_cpp
+[4.767s] [ 76%] Built target wiimote_msgs
+[4.910s] [ 78%] Built target wiimote_msgs__py
+[4.971s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_generator_py[0m
+[5.063s] [ 87%] Built target wiimote_msgs__rosidl_generator_py
+[5.143s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_fastrtps_c__pyext[0m
+[5.153s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_introspection_c__pyext[0m
+[5.158s] [35m[1mConsolidate compiler generated dependencies of target wiimote_msgs__rosidl_typesupport_c__pyext[0m
+[5.198s] running egg_info
+[5.199s] writing wiimote_msgs.egg-info/PKG-INFO
+[5.201s] writing dependency_links to wiimote_msgs.egg-info/dependency_links.txt
+[5.201s] writing top-level names to wiimote_msgs.egg-info/top_level.txt
+[5.206s] reading manifest file 'wiimote_msgs.egg-info/SOURCES.txt'
+[5.208s] writing manifest file 'wiimote_msgs.egg-info/SOURCES.txt'
+[5.245s] [ 91%] Built target wiimote_msgs__rosidl_typesupport_fastrtps_c__pyext
+[5.255s] [ 95%] Built target wiimote_msgs__rosidl_typesupport_c__pyext
+[5.261s] [100%] Built target wiimote_msgs__rosidl_typesupport_introspection_c__pyext
+[5.334s] [100%] Built target ament_cmake_python_build_wiimote_msgs_egg
+[5.387s] Invoked command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/wiimote_msgs -- -j6 -l6
+[5.654s] Invoking command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/wiimote_msgs
+[5.673s] -- Install configuration: ""
+[5.675s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/ament_index/resource_index/rosidl_interfaces/wiimote_msgs
+[5.677s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.678s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.679s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/state.h
+[5.681s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/timed_switch.h
+[5.684s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/ir_source_info.h
+[5.687s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/rosidl_generator_c__visibility_control.h
+[5.688s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.688s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__functions.c
+[5.688s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__functions.c
+[5.688s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__type_support.h
+[5.689s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__struct.h
+[5.689s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__struct.h
+[5.689s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__type_support.h
+[5.689s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__struct.h
+[5.690s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__functions.c
+[5.690s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__functions.h
+[5.690s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__functions.h
+[5.690s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__functions.h
+[5.691s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__type_support.h
+[5.691s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/library_path.sh
+[5.691s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/library_path.dsv
+[5.691s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_generator_c.so
+[5.692s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_generator_c.so" to ""
+[5.693s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.693s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.693s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[5.693s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.694s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__rosidl_typesupport_fastrtps_c.h
+[5.694s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__rosidl_typesupport_fastrtps_c.h
+[5.694s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__rosidl_typesupport_fastrtps_c.h
+[5.694s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_fastrtps_c.so
+[5.694s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_fastrtps_c.so" to ""
+[5.695s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.695s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.695s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/ir_source_info.hpp
+[5.695s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/state.hpp
+[5.696s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/timed_switch.hpp
+[5.696s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.696s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__traits.hpp
+[5.698s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__struct.hpp
+[5.698s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__struct.hpp
+[5.698s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__builder.hpp
+[5.698s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__traits.hpp
+[5.699s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__builder.hpp
+[5.699s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__builder.hpp
+[5.699s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__struct.hpp
+[5.700s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__traits.hpp
+[5.700s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.700s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.708s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[5.708s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.708s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__rosidl_typesupport_fastrtps_cpp.hpp
+[5.709s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__rosidl_typesupport_fastrtps_cpp.hpp
+[5.709s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/dds_fastrtps
+[5.709s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__rosidl_typesupport_fastrtps_cpp.hpp
+[5.709s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_fastrtps_cpp.so
+[5.709s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_fastrtps_cpp.so" to ""
+[5.710s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.710s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.710s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[5.710s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.710s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__rosidl_typesupport_introspection_c.h
+[5.711s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__rosidl_typesupport_introspection_c.h
+[5.711s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__type_support.c
+[5.711s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__rosidl_typesupport_introspection_c.h
+[5.711s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__type_support.c
+[5.712s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__type_support.c
+[5.712s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_introspection_c.so
+[5.712s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_introspection_c.so" to ""
+[5.712s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_c.so
+[5.713s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_c.so" to ""
+[5.713s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs
+[5.713s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg
+[5.713s] -- Up-to-date: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail
+[5.714s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__type_support.cpp
+[5.714s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/ir_source_info__rosidl_typesupport_introspection_cpp.hpp
+[5.714s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__rosidl_typesupport_introspection_cpp.hpp
+[5.714s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__rosidl_typesupport_introspection_cpp.hpp
+[5.714s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/timed_switch__type_support.cpp
+[5.715s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/include/wiimote_msgs/wiimote_msgs/msg/detail/state__type_support.cpp
+[5.715s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_introspection_cpp.so
+[5.715s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_introspection_cpp.so" to ""
+[5.715s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_cpp.so
+[5.715s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_typesupport_cpp.so" to ""
+[5.715s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/pythonpath.sh
+[5.715s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/pythonpath.dsv
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs-3.3.0-py3.10.egg-info
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs-3.3.0-py3.10.egg-info/SOURCES.txt
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs-3.3.0-py3.10.egg-info/top_level.txt
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs-3.3.0-py3.10.egg-info/dependency_links.txt
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs-3.3.0-py3.10.egg-info/PKG-INFO
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/_wiimote_msgs_s.ep.rosidl_typesupport_c.c
+[5.716s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/_wiimote_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/libwiimote_msgs__rosidl_generator_py.so
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/__init__.py
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/_wiimote_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_ir_source_info_s.c
+[5.717s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_timed_switch.py
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_timed_switch_s.c
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_state.py
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_state_s.c
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_ir_source_info.py
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/__init__.py
+[5.718s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[5.796s] Listing '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs'...
+[5.796s] Compiling '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/__init__.py'...
+[5.796s] Listing '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg'...
+[5.796s] Compiling '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/__init__.py'...
+[5.796s] Compiling '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_ir_source_info.py'...
+[5.796s] Compiling '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_state.py'...
+[5.797s] Compiling '/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/msg/_timed_switch.py'...
+[5.809s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so
+[5.809s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_fastrtps_c.cpython-310-aarch64-linux-gnu.so" to ""
+[5.810s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so
+[5.810s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_introspection_c.cpython-310-aarch64-linux-gnu.so" to ""
+[5.810s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so
+[5.811s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/local/lib/python3.10/dist-packages/wiimote_msgs/wiimote_msgs_s__rosidl_typesupport_c.cpython-310-aarch64-linux-gnu.so" to ""
+[5.811s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_generator_py.so
+[5.812s] -- Set runtime path of "/home/f1tenth/f1tenth_ws/install/wiimote_msgs/lib/libwiimote_msgs__rosidl_generator_py.so" to ""
+[5.812s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/IrSourceInfo.idl
+[5.812s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/State.idl
+[5.813s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/TimedSwitch.idl
+[5.813s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/IrSourceInfo.msg
+[5.813s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/State.msg
+[5.813s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/msg/TimedSwitch.msg
+[5.814s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/ament_index/resource_index/package_run_dependencies/wiimote_msgs
+[5.814s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/ament_index/resource_index/parent_prefix_path/wiimote_msgs
+[5.814s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/ament_prefix_path.sh
+[5.815s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/ament_prefix_path.dsv
+[5.815s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/path.sh
+[5.815s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/environment/path.dsv
+[5.816s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/local_setup.bash
+[5.816s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/local_setup.sh
+[5.816s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/local_setup.zsh
+[5.816s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/local_setup.dsv
+[5.817s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/package.dsv
+[5.817s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/ament_index/resource_index/packages/wiimote_msgs
+[5.817s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_generator_cExport.cmake
+[5.818s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_generator_cExport-noconfig.cmake
+[5.818s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[5.818s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[5.819s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_generator_cppExport.cmake
+[5.819s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[5.819s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[5.819s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_introspection_cExport.cmake
+[5.820s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[5.820s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_cExport.cmake
+[5.820s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[5.821s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[5.840s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[5.840s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_cppExport.cmake
+[5.840s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[5.840s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_generator_pyExport.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/export_wiimote_msgs__rosidl_generator_pyExport-noconfig.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/rosidl_cmake-extras.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[5.841s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[5.842s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[5.842s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgsConfig.cmake
+[5.842s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/cmake/wiimote_msgsConfig-version.cmake
+[5.843s] -- Installing: /home/f1tenth/f1tenth_ws/install/wiimote_msgs/share/wiimote_msgs/package.xml
+[5.843s] Invoked command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/wiimote_msgs

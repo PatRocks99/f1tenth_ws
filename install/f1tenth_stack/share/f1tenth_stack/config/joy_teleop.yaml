@@ -1,0 +1,67 @@
+joy:
+  ros__parameters:
+    #device_name: /dev/input/js0 # this is for the xbox one controller wireless # comented this out because the joy node can figure this out on its own :P L bozo wrecked
+    #device_id: 0 #0 is the oroginal value. changing to the product id from the udev rules !Did not work!
+    deadzone: 0.06
+    autorepeat_rate: 20.0
+    coalesce_interval: 0.01
+
+joy_teleop:
+  ros__parameters:
+    default:
+      type: topic
+      interface_type: ackermann_msgs/msg/AckermannDriveStamped
+      topic_name: teleop
+      axis_mappings:
+        drive-speed:
+          axis: 1
+          scale: 0.0
+          offset: 0.0
+        drive-steering_angle:
+          axis: 2
+          scale: 0.0
+          offset: 0.0
+
+    human_control:
+      type: topic
+      interface_type: ackermann_msgs/msg/AckermannDriveStamped
+      topic_name: teleop
+      deadman_buttons: [6] #LB
+      axis_mappings:
+        drive-speed:
+          axis: 1
+          scale: 5.0
+          offset: 0.0
+        drive-steering_angle:
+          axis: 2
+          scale: 0.34
+          offset: 0.0
+
+    autonomous_control:
+      type: topic
+      interface_type: std_msgs/msg/Int8 #ackermann_msgs/msg/AckermannDriveStamped 
+      topic_name: /dev/null
+      deadman_buttons: [7]
+      message_value:
+        data:
+          value: 0
+
+      # message_value:
+      #   drive-speed:
+      #     value: 0.0
+      #   drive-steering_angle:
+      #     value: 0.0
+
+    # autonomous_control:
+    #   type: topic
+    #   interface_type:  ackermann_msgs/msg/AckermannDriveStamped #std_msgs/msg/Int8 #ackermann_msgs/msg/AckermannDriveStamped
+    #   topic_name: follow_the_gap
+    #   deadman_buttons: [7] # RB however did not do anything
+    #   message_value: 
+    #     drive:
+    #       value: 
+      # message_value:
+      #   drive:
+      #     jerk: 0.0
+      #  data:
+      #     value: 0

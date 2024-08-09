@@ -1,0 +1,6 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/spacenav': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/spacenav -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/spacenav
+Invoked command in '/home/f1tenth/f1tenth_ws/build/spacenav' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/spacenav -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/spacenav
+Invoking command in '/home/f1tenth/f1tenth_ws/build/spacenav': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/spacenav -- -j6 -l6
+Invoked command in '/home/f1tenth/f1tenth_ws/build/spacenav' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/spacenav -- -j6 -l6
+Invoking command in '/home/f1tenth/f1tenth_ws/build/spacenav': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/spacenav
+Invoked command in '/home/f1tenth/f1tenth_ws/build/spacenav' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/spacenav

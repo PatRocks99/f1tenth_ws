@@ -1,0 +1,3 @@
+[console_scripts]
+follow_the_gap = control_policy.follow_the_gap:main
+

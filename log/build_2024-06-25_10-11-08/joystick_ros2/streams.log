@@ -1,0 +1,24 @@
+[3.076s] Invoking command in '/home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_ros2': PYTHONPATH=/home/f1tenth/f1tenth_ws/build/joystick_ros2/prefix_override:/home/f1tenth/f1tenth_ws/install/joystick_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/joystick_ros2 build --build-base /home/f1tenth/f1tenth_ws/build/joystick_ros2/build install --record /home/f1tenth/f1tenth_ws/build/joystick_ros2/install.log --install-scripts $base/lib/joystick_ros2 --single-version-externally-managed install_data
+[3.623s] /usr/lib/python3/dist-packages/setuptools/dist.py:723: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[3.624s]   warnings.warn(
+[3.643s] running egg_info
+[3.647s] writing ../../../build/joystick_ros2/joystick_ros2.egg-info/PKG-INFO
+[3.647s] writing dependency_links to ../../../build/joystick_ros2/joystick_ros2.egg-info/dependency_links.txt
+[3.648s] writing entry points to ../../../build/joystick_ros2/joystick_ros2.egg-info/entry_points.txt
+[3.648s] writing requirements to ../../../build/joystick_ros2/joystick_ros2.egg-info/requires.txt
+[3.648s] writing top-level names to ../../../build/joystick_ros2/joystick_ros2.egg-info/top_level.txt
+[3.650s] reading manifest file '../../../build/joystick_ros2/joystick_ros2.egg-info/SOURCES.txt'
+[3.651s] adding license file 'LICENSE'
+[3.653s] writing manifest file '../../../build/joystick_ros2/joystick_ros2.egg-info/SOURCES.txt'
+[3.654s] running build
+[3.654s] running build_py
+[3.654s] running install
+[3.654s] running install_lib
+[3.657s] running install_data
+[3.657s] running install_egg_info
+[3.661s] removing '/home/f1tenth/f1tenth_ws/install/joystick_ros2/lib/python3.10/site-packages/joystick_ros2-0.0.1-py3.10.egg-info' (and everything under it)
+[3.661s] Copying ../../../build/joystick_ros2/joystick_ros2.egg-info to /home/f1tenth/f1tenth_ws/install/joystick_ros2/lib/python3.10/site-packages/joystick_ros2-0.0.1-py3.10.egg-info
+[3.663s] running install_scripts
+[3.719s] Installing joystick_ros2 script to /home/f1tenth/f1tenth_ws/install/joystick_ros2/lib/joystick_ros2
+[3.720s] writing list of installed files to '/home/f1tenth/f1tenth_ws/build/joystick_ros2/install.log'
+[3.835s] Invoked command in '/home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_ros2' returned '0': PYTHONPATH=/home/f1tenth/f1tenth_ws/build/joystick_ros2/prefix_override:/home/f1tenth/f1tenth_ws/install/joystick_ros2/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../../build/joystick_ros2 build --build-base /home/f1tenth/f1tenth_ws/build/joystick_ros2/build install --record /home/f1tenth/f1tenth_ws/build/joystick_ros2/install.log --install-scripts $base/lib/joystick_ros2 --single-version-externally-managed install_data

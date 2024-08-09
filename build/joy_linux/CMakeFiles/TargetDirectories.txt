@@ -1,0 +1,10 @@
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/uninstall.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/joy_linux_uninstall.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/joy_linux_node.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/test.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/edit_cache.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/rebuild_cache.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/list_install_components.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/install.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/install/local.dir
+/home/f1tenth/f1tenth_ws/build/joy_linux/CMakeFiles/install/strip.dir

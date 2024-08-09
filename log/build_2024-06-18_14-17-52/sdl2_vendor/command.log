@@ -1,0 +1,2 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/sdl2_vendor -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/sdl2_vendor
+Invoked command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor' returned '1': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/sdl2_vendor -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/sdl2_vendor

@@ -1,0 +1,3 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/wiimote_msgs
+Invoked command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/wiimote_msgs
+Invoking command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/wiimote_msgs -- -j6 -l6

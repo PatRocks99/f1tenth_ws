@@ -1,0 +1,6 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/sdl2_vendor -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/sdl2_vendor
+Invoked command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/sdl2_vendor -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/sdl2_vendor
+Invoking command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/sdl2_vendor -- -j6 -l6
+Invoked command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/f1tenth/f1tenth_ws/build/sdl2_vendor -- -j6 -l6
+Invoking command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/sdl2_vendor
+Invoked command in '/home/f1tenth/f1tenth_ws/build/sdl2_vendor' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/f1tenth/f1tenth_ws/build/sdl2_vendor

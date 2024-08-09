@@ -1,0 +1,8 @@
+{
+  "package_name": "wiimote_msgs",
+  "non_idl_tuples": [
+    "/home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs:msg/IrSourceInfo.msg",
+    "/home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs:msg/State.msg",
+    "/home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs:msg/TimedSwitch.msg"
+  ]
+}

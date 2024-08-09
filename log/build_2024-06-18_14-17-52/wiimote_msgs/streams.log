@@ -1,0 +1,32 @@
+[0.549s] Invoking command in '/home/f1tenth/f1tenth_ws/build/wiimote_msgs': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/wiimote_msgs -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/wiimote_msgs
+[0.674s] -- The C compiler identification is GNU 11.4.0
+[0.802s] -- The CXX compiler identification is GNU 11.4.0
+[0.818s] -- Detecting C compiler ABI info
+[0.961s] -- Detecting C compiler ABI info - done
+[0.974s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.974s] -- Detecting C compile features
+[0.975s] -- Detecting C compile features - done
+[0.980s] -- Detecting CXX compiler ABI info
+[1.118s] -- Detecting CXX compiler ABI info - done
+[1.130s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.131s] -- Detecting CXX compile features
+[1.131s] -- Detecting CXX compile features - done
+[1.148s] [31mCMake Error at CMakeLists.txt:19 (find_package):
+[1.148s]   By not providing "Findament_cmake.cmake" in CMAKE_MODULE_PATH this project
+[1.148s]   has asked CMake to find a package configuration file provided by
+[1.148s]   "ament_cmake", but CMake did not find one.
+[1.148s] 
+[1.148s]   Could not find a package configuration file provided by "ament_cmake" with
+[1.148s]   any of the following names:
+[1.149s] 
+[1.149s]     ament_cmakeConfig.cmake
+[1.149s]     ament_cmake-config.cmake
+[1.149s] 
+[1.149s]   Add the installation prefix of "ament_cmake" to CMAKE_PREFIX_PATH or set
+[1.149s]   "ament_cmake_DIR" to a directory containing one of the above files.  If
+[1.149s]   "ament_cmake" provides a separate development package or SDK, be sure it
+[1.150s]   has been installed.
+[1.150s] 
+[1.150s] [0m
+[1.150s] -- Configuring incomplete, errors occurred!
+[1.150s] See also "/home/f1tenth/f1tenth_ws/build/wiimote_msgs/CMakeFiles/CMakeOutput.log".

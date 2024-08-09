@@ -1,0 +1,32 @@
+[0.629s] Invoking command in '/home/f1tenth/f1tenth_ws/build/spacenav_node': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/spacenav_node -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/spacenav_node
+[0.749s] -- The C compiler identification is GNU 11.4.0
+[0.920s] -- The CXX compiler identification is GNU 11.4.0
+[0.936s] -- Detecting C compiler ABI info
+[1.069s] -- Detecting C compiler ABI info - done
+[1.082s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.082s] -- Detecting C compile features
+[1.083s] -- Detecting C compile features - done
+[1.089s] -- Detecting CXX compiler ABI info
+[1.224s] -- Detecting CXX compiler ABI info - done
+[1.236s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.236s] -- Detecting CXX compile features
+[1.237s] -- Detecting CXX compile features - done
+[1.253s] [31mCMake Error at CMakeLists.txt:6 (find_package):
+[1.253s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[1.254s]   asked CMake to find a package configuration file provided by "catkin", but
+[1.254s]   CMake did not find one.
+[1.254s] 
+[1.254s]   Could not find a package configuration file provided by "catkin" with any
+[1.254s]   of the following names:
+[1.254s] 
+[1.255s]     catkinConfig.cmake
+[1.255s]     catkin-config.cmake
+[1.255s] 
+[1.255s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[1.255s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[1.255s]   provides a separate development package or SDK, be sure it has been
+[1.255s]   installed.
+[1.256s] 
+[1.256s] [0m
+[1.256s] -- Configuring incomplete, errors occurred!
+[1.256s] See also "/home/f1tenth/f1tenth_ws/build/spacenav_node/CMakeFiles/CMakeOutput.log".

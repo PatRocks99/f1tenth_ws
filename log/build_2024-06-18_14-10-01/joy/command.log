@@ -1,0 +1,2 @@
+Invoking command in '/home/f1tenth/f1tenth_ws/build/joy': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/joy -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/joy
+Invoked command in '/home/f1tenth/f1tenth_ws/build/joy' returned '1': /usr/bin/cmake /home/f1tenth/f1tenth_ws/src/f1tenth_system/joystick_drivers/joy -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/f1tenth/f1tenth_ws/install/joy
